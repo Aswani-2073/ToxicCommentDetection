@@ -1,0 +1,12 @@
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.2
+tensorflow>=2.20
+keras>=3.11
+matplotlib
+seaborn
+nltk
+wordcloud
+plotly
